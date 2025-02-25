@@ -48,6 +48,10 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+ The process of crafting effective prompts to interact with AI models.
+ Clear, specific prompts lead to more accurate and useful AI responses.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Example of a vague prompt: "Can you write me a story?"
+Improved prompt: "Please write a 1,000-word fantasy story about a young hero who embarks on a quest to save their kingdom."
+The improved prompt is more effective as it provides clear instructions and constraints, leading to a more focused and relevant AI response.
